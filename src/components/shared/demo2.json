@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_demo2s",
+  "info": {
+    "displayName": "demo2",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "address": {
+      "type": "string"
+    }
+  }
+}

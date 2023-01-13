@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_shared_boxeslayouts",
+  "info": {
+    "displayName": "boxeslayout",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.box"
+    }
+  }
+}

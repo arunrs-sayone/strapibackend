@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_contact_uses",
+  "info": {
+    "displayName": "contact us"
+  },
+  "options": {},
+  "attributes": {
+    "location": {
+      "type": "string"
+    },
+    "emailaddress": {
+      "type": "email"
+    },
+    "phone": {
+      "type": "integer"
+    }
+  }
+}
